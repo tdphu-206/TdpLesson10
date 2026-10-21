@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>@ViewData["Title"] - Management System</title>
+    
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/dist/css/styles.css" rel="stylesheet" />
+    <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+    <style>
+        #layoutSidenav {
+            display: flex;
+        }
+        #layoutSidenav #layoutSidenav_nav {
+            flex-basis: 225px;
+            flex-shrink: 0;
+            min-height: calc(100vh - 56px);
+            background-color: #212529; /* Màu nền tối cho sidebar */
+        }
+        #layoutSidenav #layoutSidenav_content {
+            flex-grow: 1;
+            min-width: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+    </style>
+</head>
+<body class="sb-nav-fixed">
+    <!-- Top Nav -->
+    <partial name="TopNav" />
+
+    <div id="layoutSidenav">
+        <!-- Menu bên trái do ViewComponent đổ vào -->
+        <div id="layoutSidenav_nav">
+            @await Component.InvokeAsync("Render")
+        </div>
+
+        <!-- Nội dung chính bên phải -->
+        <div id="layoutSidenav_content">
+            <main>
+                <div class="container-fluid px-4">
+                    @RenderBody()
+                </div>
+            </main>
+
+            <!-- Footer -->
+            <footer class="py-4 bg-light mt-auto">
+                <partial name="Footer" />
+            </footer>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/dist/js/scripts.js"></script>
+    
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,79 @@
+﻿@model TdpLesson10_Lab1.Models.Student
+@using TdpLesson10_Lab1.Models
+
+@{
+    ViewData["Title"] = "Thêm sinh viên";
+}
+
+<h2>Thêm sinh viên</h2>
+
+<form asp-controller="Student"
+      asp-action="Create"
+      method="post">
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label">Họ tên</label>
+        <input asp-for="Name" class="form-control"
+               placeholder="Nhập họ tên" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label">Email</label>
+        <input asp-for="Email" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Password" class="form-label">Mật khẩu</label>
+        <input asp-for="Password" type="password"
+               class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Branch" class="form-label">Ngành học</label>
+        <select asp-for="Branch"
+                asp-items="Html.GetEnumSelectList<Branch>()"
+                class="form-select">
+            <option value="">-- Chọn ngành --</option>
+        </select>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Giới tính</label><br />
+
+        <input type="radio" asp-for="Gender"
+               value="Male" id="male" />
+        <label for="male">Nam</label>
+
+        <input type="radio" asp-for="Gender"
+               value="Female" id="female" />
+        <label for="female">Nữ</label>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DateOfBorth" class="form-label">
+            Ngày sinh
+        </label>
+        <input asp-for="DateOfBorth"
+               type="date" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Hệ đào tạo</label><br />
+        <input asp-for="IsRegular" type="checkbox" />
+        <label asp-for="IsRegular">Chính quy</label>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Address" class="form-label">Địa chỉ</label>
+        <textarea asp-for="Address"
+                  class="form-control"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">
+        Create
+    </button>
+
+    <a asp-action="Index" class="btn btn-secondary">
+        Quay lại
+    </a>
+</form>

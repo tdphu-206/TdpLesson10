@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\views\\shared\\mylayouthelper.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\views\\shared\\components\\render\\renderleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\views\\shared\\topnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\viewcomponents\\renderviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\views\\shared\\leftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|d:\\ltw1\\tdplesson10\\tdplesson10_lab1\\tdplesson10_lab1\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6416447C-B1FC-451D-CBA7-8E49E719BC3D}|TdpLesson10_Lab1\\TdpLesson10_Lab1.csproj|solutionrelative:tdplesson10_lab1\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyLayoutHelper.cshtml",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\Views\\Shared\\MyLayoutHelper.cshtml",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Shared\\MyLayoutHelper.cshtml*",
+              "RelativeToolTip": "TdpLesson10_Lab1\\Views\\Shared\\MyLayoutHelper.cshtml*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T01:48:08.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Program.cs",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\Program.cs",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Program.cs*",
+              "RelativeToolTip": "TdpLesson10_Lab1\\Program.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:47:20.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RenderLeftMenu.cshtml",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "RelativeToolTip": "TdpLesson10_Lab1\\Views\\Shared\\Components\\Render\\RenderLeftMenu.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T01:46:59.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "TdpLesson10_Lab1\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T00:44:35.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "TdpLesson10_Lab1\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T01:56:38.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TopNav.cshtml",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Shared\\TopNav.cshtml",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\Views\\Shared\\TopNav.cshtml",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Shared\\TopNav.cshtml",
+              "RelativeToolTip": "TdpLesson10_Lab1\\Views\\Shared\\TopNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T01:55:47.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RenderViewComponent.cs",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\ViewComponents\\RenderViewComponent.cs",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\ViewComponents\\RenderViewComponent.cs",
+              "RelativeToolTip": "TdpLesson10_Lab1\\ViewComponents\\RenderViewComponent.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T01:44:01.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\Models\\MenuItem.cs",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Models\\MenuItem.cs",
+              "RelativeToolTip": "TdpLesson10_Lab1\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T01:42:23.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeftMenu.cshtml",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\Views\\Shared\\LeftMenu.cshtml",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Shared\\LeftMenu.cshtml",
+              "RelativeToolTip": "TdpLesson10_Lab1\\Views\\Shared\\LeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T01:57:05.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyLayout.cshtml",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\Views\\Shared\\MyLayout.cshtml",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Shared\\MyLayout.cshtml",
+              "RelativeToolTip": "TdpLesson10_Lab1\\Views\\Shared\\MyLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T01:13:50.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "TdpLesson10_Lab1\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T00:45:25.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "TdpLesson10_Lab1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:43:27.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TdpLesson10_Lab1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T01:29:18.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\Models\\Student.cs",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Models\\Student.cs",
+              "RelativeToolTip": "TdpLesson10_Lab1\\Models\\Student.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA4wBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:42:45.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\Models\\Branch.cs",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Models\\Branch.cs",
+              "RelativeToolTip": "TdpLesson10_Lab1\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:42:22.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "TdpLesson10_Lab1\\Models\\Gender.cs",
+              "ToolTip": "D:\\LTW1\\TdpLesson10\\TdpLesson10_Lab1\\TdpLesson10_Lab1\\Models\\Gender.cs",
+              "RelativeToolTip": "TdpLesson10_Lab1\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T00:41:55.348Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
